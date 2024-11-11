@@ -18,7 +18,7 @@ function Project() {
     {
       title: 'Dynamic Resume Builder',
       description: 'I created Dynamic Resume Builder.',
-      imageSrc: '/project-5.jpg',
+      imageSrc: '/Project-5.jpg',
       link: 'https://milestones-3-orcin.vercel.app/?vercelToolbarCode=WA-bC3zidNqyzzE',
     },
     {
